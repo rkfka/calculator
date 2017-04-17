@@ -1,0 +1,6 @@
+G:\tutorial_books\object oriented\tamrin2\tamrin2\bin\Debug\tamrin2.exe.config
+G:\tutorial_books\object oriented\tamrin2\tamrin2\bin\Debug\tamrin2.exe
+G:\tutorial_books\object oriented\tamrin2\tamrin2\bin\Debug\tamrin2.pdb
+G:\tutorial_books\object oriented\tamrin2\tamrin2\obj\Debug\tamrin2.csprojResolveAssemblyReference.cache
+G:\tutorial_books\object oriented\tamrin2\tamrin2\obj\Debug\tamrin2.exe
+G:\tutorial_books\object oriented\tamrin2\tamrin2\obj\Debug\tamrin2.pdb
